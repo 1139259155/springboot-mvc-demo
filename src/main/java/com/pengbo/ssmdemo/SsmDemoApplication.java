@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SsmDemoApplication {
 
     public static void main(String[] args) {
+        //启动
         SpringApplication.run(SsmDemoApplication.class, args);
     }
 }
